@@ -1,6 +1,5 @@
 # **Prasyarat**
 - [**Prasyarat**](#prasyarat)
-  - [Pelatihan Linux](#pelatihan-linux)
   - [Install Docker](#install-docker)
     - [Windows](#Windows)
     - [Linux](#linux)
@@ -11,9 +10,6 @@
       - [Debian (termasuk Kali Linux, MX Linux, dkk)](#debian)
       - [Arch (termasuk Endeavour)](#arch)
     - [MacOS](#macos)
-
-## Pelatihan Linux
-Sebelum masuk ke materi Docker Mastery Bootcamp: From Zero to Hero, pastikan sudah memahami Linux yang bisa dibaca di Repository [Pelatihan Linux](https://github.com/arsitektur-jaringan-komputer/Pelatihan-Linux).
 
 ## Install Docker
 #### Windows
